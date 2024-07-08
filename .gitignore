@@ -12,8 +12,5 @@ idea-out
 
 _doc
 _bundles
-lib
-lib-esm
-dist
 
 !.github
